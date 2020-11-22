@@ -5,8 +5,7 @@ U+Axxx are blocks
 U+Bxxx are items
 U+Dxxx are entities
 
-To use them, follow this example.
-
+![Alt text](example.png?raw=true "Example")
 
 To convert code points into characters, use this:
 https://r12a.github.io/app-conversion/
