@@ -1,6 +1,6 @@
 # custom-emoji-unicode
 This pack is used to make unicode characters that display entities, items and blocks. 
-I recommend only using this on signs, as nametags and chat cause weird compression issues.
+I recommend only using this on signs, as nametags and chat makes the characters look "deep fried" for some reason.
 
 U+Axxx are blocks
 U+Bxxx are items
